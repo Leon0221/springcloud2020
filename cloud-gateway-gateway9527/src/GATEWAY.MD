@@ -19,3 +19,5 @@ Gateway是Spring生态系统之上构建的API网关服务，基于Spring5 Sprin
 请求限流功能
 支持路径重新写
 https://www.bilibili.com/video/BV18E411x7eT?p=72
+
+filter 主要实现 GlobalFilter, Ordered 这两个接口
